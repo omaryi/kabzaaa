@@ -1,0 +1,62 @@
+import url('http://fonts.googlepis.com/css?family=poppins:200,300,400,500,600,700,800,900&
+diplay=swap');
+
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-boxer;
+
+   
+    font-family ' Poppins ' ,sans=serif;
+}
+body
+{
+display:flex;
+justify-content: flex-end;
+align: items:flex-end;
+min-height :100vh;
+background:#333;
+
+
+}
+footer
+{
+position: relative;
+width: 100%;
+footer
+background: #3586ff;
+min-height 100px;
+padding: 20px 50px;
+display:fle;
+justify-content:center;
+
+}
+footer .social_icon
+{
+    position:relative;
+    dispay:flex;
+    justify-content: center;
+align-items: center;
+margin:10px 0;
+flex-wrap:wrap;
+
+}
+footer .social_icon li
+list-style: none;
+}
+footer .social_icon 
+{
+font-size:2px;
+color:#fff;
+margin:0 10px;
+display:inline-block;
+transition:0.5#;
+}
+footer .social_icon li #:hover
+{
+    transform:translaveY(-10px);
+    
+
+}
+
+}
